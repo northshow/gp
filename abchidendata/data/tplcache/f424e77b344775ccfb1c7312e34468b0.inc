@@ -1,0 +1,3 @@
+<article class='hentry av-magazine-entry-id-8519 av-magazine-format- av-magazine-type-industry_arena av-magazine-entry-1 av-magazine-entry-small ' ><a href="[field:arcurl/]"><div class="icon" alt="[field:title/]"><img width="137" height="141" src="[field:picname/]" class="attachment-full wp-post-image" alt="04" /></div><div class="right"><header>[field:title/]0000</header>
+
+			<div class="content"> [field:description/]</div></div></a></article>

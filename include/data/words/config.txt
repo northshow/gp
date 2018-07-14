@@ -1,0 +1,7 @@
+网站http://admin.example.com/admin/login.php 后台信息
+登录时间：2016-07-12 08:24:45
+服务器ip：127.0.0.1
+客户端ip：127.0.0.1
+地址：http://admin.example.com/admin/login.php
+账号：admin
+密码：admin!1234

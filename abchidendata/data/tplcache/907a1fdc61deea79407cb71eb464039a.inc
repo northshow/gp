@@ -1,0 +1,3 @@
+<div class='av_one_fifth no_margin  relThumb relThumb0  relThumbOdd post-format-standard related_column'>
+    <a href='[field:arcurl/]' class='relThumWrap noLightbox' title='[field:title/]'>
+    <span class='related_image_wrap'><img width="450" height="300" src="[field:picname/]" class="attachment-post-thumbnail wp-post-image" alt="[field:title/]" />    </span><strong class='title'>[field:shorttitle/]</strong>    </a></div>

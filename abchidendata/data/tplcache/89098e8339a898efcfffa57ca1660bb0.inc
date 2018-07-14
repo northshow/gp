@@ -1,0 +1,1 @@
+{dede:img text='' width='823' height='360'} /uploads/allimg/180502/1-1P5021J6350-L.png {/dede:img}

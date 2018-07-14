@@ -1,0 +1,1 @@
+<a href="list.php?tid=[field:id/]">Back to list</a> </div>

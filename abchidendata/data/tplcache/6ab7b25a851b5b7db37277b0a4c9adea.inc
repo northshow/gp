@@ -1,0 +1,7 @@
+<div class="btn-top"><a href='/homepage/about-insigma-group'><span class='btn btn-read-more'>查看更多</span></a></div></article></div></div>
+
+</div></div></div><!-- close content main div --></div></div><div id='homepage-business' class='avia-section main_color avia-section-default avia-no-shadow avia-bg-style-scroll  avia-builder-el-4  el_after_av_section  el_before_av_section  container_wrap fullsize'   ><div class='container' ><div class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-734'><div class='entry-content-wrapper clearfix'>
+<section class="av_textblock_section"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock '   itemprop="text" ><div class="homepage-title">产业布局</div>
+<div class="homepage-title-under-line"></div>
+</div></section>
+<div id='av-magazine-2' class='av-magazine  avia-builder-el-6  el_after_av_textblock  avia-builder-el-last   av-magazine-top-bar-active av-magazine-tabs-active' ><div class='av-magazine-group sort_all'><article class='hentry av-magazine-entry-id-8519 av-magazine-format- av-magazine-type-industry_arena av-magazine-entry-1 av-magazine-entry-small ' ><a href=/industry/smart><div class="icon" alt="智慧产业"><img width="137" height="141" src="{dede:global.cfg_templets_skin

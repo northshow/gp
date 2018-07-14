@@ -1,0 +1,1 @@
+<p style='line-height:150%'>感谢您使用艾迈工作室开发修改的插件！<br>网址：<a href='http://www.guaichai.com/' target='_blank'>怪柴网</a></p>

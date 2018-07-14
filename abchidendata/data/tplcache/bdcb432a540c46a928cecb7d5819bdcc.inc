@@ -1,0 +1,1 @@
+<section class="right zh-hans"><div class="head"><span class="title">[field:typename/]</span><a class="link" href="[field:typelink/]">更多 ></a><a></a></div>
