@@ -1,0 +1,3 @@
+
+		<article class='hentry av-magazine-entry-id-8525 av-magazine-format- av-magazine-type-creative av-magazine-entry-1 av-magazine-entry-small ' ><a href='[field:fulanmu/]'><header><div class="icon" alt="[field:typename/]"><img width="40" height="44" src="[field:lanmuimg/]" class="attachment-full wp-post-image" alt="06" /></div><span>[field:typename/]</span></header><div class="content">[field:description/]</div></a></article>
+        

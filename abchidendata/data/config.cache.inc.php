@@ -1,7 +1,7 @@
 <?php
 $cfg_disable_funs = 'phpinfo,eval,exec,passthru,shell_exec,system,proc_open,popen,curl_exec,curl_multi_exec,parse_ini_file,show_source,file_put_contents';
 $cfg_disable_tags = 'php';
-$cfg_basehost = 'http://www.makaixuan.com';
+$cfg_basehost = 'http://gp.makaixuan.com';
 $cfg_cmspath = '';
 $cfg_cookie_encode = 'wPvXqQthdFFVrHxwPsSvVsLq4xMX';
 $cfg_indexurl = '/';
@@ -154,19 +154,18 @@ $cfg_memcache_mc_oth = '';
 $cfg_cross_sectypeid = 'N';
 $cfg_digg_update = 0;
 $cfg_feedback_guest = 'N';
-$cfg_mydz = '上海市';
-$cfg_add = '延安西路728号华敏翰尊国际大厦7楼f座 ';
-$cfg_myphone = '';
+$cfg_mydz = '上海市延安西路728号华敏翰尊国际大厦7楼f座 ';
+$cfg_add = '上海市延安西路728号华敏翰尊国际大厦7楼f座 ';
+$cfg_myphone = '（021）66283620';
 $cfg_tel = '（021）66283620';
-$cfg_myqq = '28801307053';
+$cfg_myqq = '（021）66283620';
 $cfg_email = '28801307053@qq.com';
-$cfg_myemail = '';
+$cfg_myemail = '28801307053@qq.com';
 $cfg = '';
-$cfg_dt = '/uploads/180709/1-1PFZ9340M33.png';
+$cfg_dt = '/uploads/180716/1-1PG615124KA.png';
 $cfg_logo = '/uploads/180710/1-1PG0093345335.png';
-$cfg_gsmc = '锐劲集团';
+$cfg_gsmc = '上海锐劲实业有限公司';
 $cfg_gw = '';
-$cfg_wx = '/uploads/180507/1-1P50G1592M47.png';
 $cfg_ba = '<p class="copyright">Copyright © 2013 上海锐劲实业有限公司 All reserved</p><a class="designby" href="http://www.hengtiansoft.com/?lang=zh">锐劲集团</a>                        	<div class="bei">
 	                        	<p class=icp> 沪ICP备15035899</p>
 		                    	<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010802004345">
@@ -177,5 +176,8 @@ $cfg_ba = '<p class="copyright">Copyright © 2013 上海锐劲实业有限公司
 									<img src=/templets/admin/images/zjaic.gif border=0>
 									<p >锐劲集团 33000000008878号</p>
 								</a>';
-$cfg_ddt = '/uploads/180507/1-1P50G51220G7.png';
+$cfg_ddt = '/uploads/180716/1-1PG61G25E61.png';
+$cfg_wx = '/uploads/180716/1-1PG61I9295b.jpg';
+$cfg_wxe = '/uploads/180716/1-1PG613535A63.png';
+$cfg_wb_logo = '/uploads/180716/1-1PG613550I44.png';
 ?>

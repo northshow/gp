@@ -1,15 +1,14 @@
 <?php
-$typeArr[1] = '产业布局';
-$typeArr[2] = '创新创业';
+$typeArr[2] = '产业布局';
 $typeArr[3] = '新闻中心';
 $typeArr[4] = '人才招聘';
 $typeArr[5] = '联系我们';
-$typeArr[6] = '智慧产业';
-$typeArr[7] = '绿色产业';
-$typeArr[8] = '金融';
-$typeArr[9] = '技术';
-$typeArr[10] = '空间';
-$typeArr[11] = 'ppp';
+$typeArr[24] = '产业布局old';
+$typeArr[25] = '锐得电子';
+$typeArr[26] = '锐启文化';
+$typeArr[27] = '云秤数据';
+$typeArr[9] = '晶苓电子';
+$typeArr[28] = '新增';
 $typeArr[12] = '关于我们';
 $typeArr[13] = '贡献';
 $typeArr[14] = '专注';

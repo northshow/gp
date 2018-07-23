@@ -1,0 +1,1 @@
+INSERT INTO `dede_search_keywords` VALUES('1','','','71','33','1525665790','0','0');
